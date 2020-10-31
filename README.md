@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# smartrvl
-=======
-# smartrvl-app
->>>>>>> 9630f18e5b44e81843a2f275f4bced03b19895fe
-
-#### _P1 10/31/20_
+## smartrvl app
 
 ### _By Maxwell Yu, Kaitlin Kenney, Vanessa Orellana, Lohelani Hicks, Aaron Lu_
 
